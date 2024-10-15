@@ -156,8 +156,7 @@ export default function HonorsPortfolio() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-lg font-medium">
-                    "Blockchain-Enhanced Spectrum Sharing in Cognitive Radio
-                    Networks"
+                    Blockchain-Enhanced Spectrum Sharing in Cognitive Radio Networks
                   </CardDescription>
                   <p className="mt-2">
                     Presented at Research Day (October 31, 2024)
@@ -191,8 +190,8 @@ export default function HonorsPortfolio() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-lg font-medium">
-                    "Machine Learning Approaches for Optimizing Energy
-                    Consumption in IoT Networks"
+                    Machine Learning Approaches for Optimizing Energy
+                    Consumption in IoT Networks
                   </CardDescription>
                   <p className="mt-2">
                     Presented at the Undergraduate Research Symposium (April 15,
@@ -228,8 +227,8 @@ export default function HonorsPortfolio() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-lg font-medium">
-                    "Design and Implementation of a VHDL-based Traffic Light
-                    Controller Simulation"
+                    Design and Implementation of a VHDL-based Traffic Light
+                    Controller Simulation
                   </CardDescription>
                   <p className="mt-2">Completed in April 2024</p>
                   <Dialog>
@@ -327,8 +326,8 @@ export default function HonorsPortfolio() {
                       The Mahagany Music Festival – Koger Center (09/11/2021)
                     </li>
                     <li>Honors Induction Ceremony (02/22/2022)</li>
-                    <li>Palmer's Executive Speaker Series (09/13/2022)</li>
-                    <li>Palmer's Executive Speaker Series (10/15/2024)</li>
+                    <li>{"Palmer's Executive Speaker Series (09/13/2022)"}</li>
+                    <li>{"Palmer's Executive Speaker Series (10/15/2024)"}</li>
                   </ul>
                 </CardContent>
               </Card>
@@ -343,7 +342,7 @@ export default function HonorsPortfolio() {
               <Card className="mb-4 shadow-lg hover:shadow-xl transition-shadow duration-300">
                 <CardHeader>
                   <CardTitle className="text-red-700">
-                    Benedict College Women's Business Center
+                    {"Benedict College Women's Business Center"}
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
@@ -356,8 +355,7 @@ export default function HonorsPortfolio() {
                   </p>
                   <ul className="list-disc pl-5 mt-1 space-y-1">
                     <li>
-                      Managed social media platforms, enhancing online presence,
-                      and broadening the center's audience.
+                      {"Managed social media platforms, enhancing online presence, and broadening the center's audience."}
                     </li>
                     <li>
                       Efficiently handled administrative tasks, contributing to
